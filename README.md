@@ -1,3 +1,4 @@
+просто да
 <h1 align="center">FunPay Cardinal</h1>
 <h4 align="center">Простой и эффективный бот для автоматизации FunPay</h4>
 
